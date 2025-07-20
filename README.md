@@ -1,2 +1,2 @@
-# Ghoul---Token
+# Ghoul-Token
 Logo and metadata files for $GHOUL 
